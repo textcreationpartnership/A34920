@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all you Protestant persecutors, whether magistrates, priests or people, this is for you to reade</title>
+            <author>R. C. (Richard Crane)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34920</idno>
+            <idno type="STC">Wing C6817</idno>
+            <idno type="STC">ESTC R28577</idno>
+            <idno type="EEBO-CITATION">10676644</idno>
+            <idno type="OCLC">ocm 10676644</idno>
+            <idno type="VID">45479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1401:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all you Protestant persecutors, whether magistrates, priests or people, this is for you to reade</title>
+                  <author>R. C. (Richard Crane)</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>166-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: R.C.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45479:1" rendition="simple:additions"/>
+            <head>To all you PROTESTANT PERSECUTORS, whether <hi>Magiſtrates, Prieſts</hi> or <hi>People,</hi> this is for you to reade.</head>
+            <p>GOD Eternal who hath formed us, given us breath, and brought us forth, hath ſaid unto us, <hi>Live;</hi> He it is we ſerve, fear and obey: Therefore hear and give heed unto what ſhal be here ſaid unto you, from us who this day ſuffer under your cruel hands, in your Pri<g ref="char:EOLhyphen"/>ſons and naſty holes in and about this City of <hi>London.</hi>
+            </p>
+            <p>Known be it unto you, we neither have nor do deſerve ſuch cruel and inhu<g ref="char:EOLhyphen"/>mane uſage at your hands; for not any of you can juſtly charge us with evil, neither have we wronged any man in his Propriety or Eſtate, whereby the Crea<g ref="char:EOLhyphen"/>tion in any kind hath ſuffered detriment or loſs; neither have we impaired any mans Reputation, or taken his Good-name from him, but have lived in all Godlineſs and Honeſty, and have kept a Conſcience void of offence both in the ſight of God and man.</p>
+            <p>And foraſmuch as we are perſecuted, Impriſoned, and evil-intreated by the men of this Generation, who call themſelves <hi>Proteſtants,</hi> and cover themſelves under that name, to hide their Cruelty; but it is manifeſt to the World, that Perſecution in <hi>Jews, Heathens, Turks, Papiſts</hi> and <hi>Proteſtants</hi> is one and the ſame, the Spirit is but one in all which perſecute; and the <hi>Proteſtant</hi> that <hi>baniſheth,</hi> is one in ſpirit with the <hi>Papiſt</hi> that <hi>burns,</hi> and the <hi>Papiſt</hi> is one with the <hi>Heathen</hi> that <hi>kills,</hi> and the <hi>Heathen</hi> is one with the <hi>Jew</hi> that <hi>crucifies,</hi> and all one with <hi>Cain</hi> that <hi>Murtherer.</hi> And think ye, that we who are of this Nation born <hi>Free,</hi> as either your ſelves, or your ſeed, muſt be expoſed to <hi>vaſſalage</hi> in ſtrange Countries, and there to languiſh the reſt of our dayes we have to ſpend, and ſeek our ſuſtenance among ſtrangers? what, is it becauſe there is not graves in <hi>England,</hi> that we muſt undergo your cruel <hi>penalty</hi> of Baniſhment? and is it a light thing to lacerate, tear and rend whole Families in pieces, without any pity ſhewn either to Age or Sex? the Husband, from Wife, the Wife from Husband, the Children from Parents, and the Parents from Children. O! pitileſs and mercileſs Generation, was there ever ſuch a thing done in this Nation of <hi>England?</hi> Search your Records of <hi>Perſecution,</hi> and ſee, if a preſident be found in all of them for this. And is any thing ſo blind as <hi>Perſecution?</hi> What, to cut off a Limb of this Nation of <hi>England,</hi> for nothing elſe but for the ſake of your National Prayer called <hi>Common,</hi> and be<g ref="char:EOLhyphen"/>cauſe we cannot for conſcience-ſake joyn with you in it, we muſt be deſtroy<g ref="char:EOLhyphen"/>ed; Is this the Charity that your National Religion is grounded upon? and would you have us joyn to that? Nay, nay, in vain is your impoſition on Con<g ref="char:EOLhyphen"/>ſcience: And think not to work Conformity by coerſive means; we who ſuffer under your will in your cruel Goals, do in God's Dread and Fear, declare, that the True Chriſtians never uſed any other force, but Perſwaſion; and we do further declare, that whoſoever they are, though they be called or bear the name, <hi>Chriſtians,</hi> whether a Man, a People, or a Nation, and go about to com<g ref="char:EOLhyphen"/>pel Conſcience in matters of Religion, they are <hi>Antichriſt,</hi> and out of Chriſt's, the Apoſtles and True Chriſtians Order and Practice; for their Force was <hi>Per<g ref="char:EOLhyphen"/>ſwaſion,</hi> and no other.</p>
+            <p>And as to you who are Miniſters of that heterogeneal and unnatural Law, lately made, and put in Execution againſt us, we ſay, and declare in God's Fear, well would it be with you in this thing, if moderation both in words and actions did attend your work in hand; and not to lay a heavier load of Suffer<g ref="char:EOLhyphen"/>ings upon the Innocent than the ſeverity of the Law inflicts: But behold the Barbarities and inhumane Cruelties, and unparallel'd Actions of <note n="*" place="margin">Richard Brown's car<g ref="char:EOLhyphen"/>riage towards the Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers,</hi> at the <hi>Bull and Mouth.</hi>
+               </note> one who is a Chief Miniſter of our ſad af<g ref="char:EOLhyphen"/>flictions at our Meeting at the <hi>Bull and Mouth,</hi> what pulling off the hair! what ſmiting on the face, kicking and ſpurning with his feet on the legs and body, and pinching on the arms, beſides the many ſcurilous words, Blaſpheming God's <hi>Holy Truth</hi> in irronical and ſcoffing terms, do the In<g ref="char:EOLhyphen"/>nocent People, called <hi>Quakers,</hi> ſuffer by his bloody hands, both Men, Wo<g ref="char:EOLhyphen"/>men and Children, to the amazement of the Spectators! and ſome of the Ma<g ref="char:EOLhyphen"/>giſtrates have themſelves cried out upon his Cruelty: And let all moderate People judge of this mans actions, and whether he be not more fit to miniſter Conformity to Dogs than men? and whether ſuch Miniſters of Juſtice make not a Government by ſuch actions, loathſome and abominable to Wiſe Men, and a ſcorn to Fools, I leave to all that are wiſe in heart to judge?</p>
+            <p>And that our Neighbours amongſt whom we live and have commerce, muſt be compelled on pain of Impriſonment, to take us by the throat for our Con<g ref="char:EOLhyphen"/>ſcience to God, knowing no evil at all by us: certainly this is deplorable, and to be lamented of all (in whom the Fear of God, and the Sence of his <hi>Living Power</hi> is not quite extinct) that a Generation of men who never received a greater <note n="†" place="margin">Their Miraculous Reſtauration.</note> 
+               <hi>Mercy,</hi> even from <hi>Adam</hi> to this day, as many of themſelves have confeſſed, ſhould thus requite and retaliate God, infinit for his love in that thing: It is the very grief of our ſouls to ſee things thus run retrograde, but we have no helper on Earth, and God Eternal, who beholds our unjuſt ſuffer<g ref="char:EOLhyphen"/>ings, is our Judge, whom we love, fear and obey; and we do appeal to him for Juſtice, knowing right well our Perſecutors do, neither can do any thing but by his permiſſion, and they have no power over us, except it be given them; and our Integrity in God we hold faſt, and we are aſſured our patience in him ſhall out-live, and bring to an end all the Cruelties of men whatſoever, though they may be permitted to heat the Furnace yet ſeven times hotter.</p>
+            <p>And you that are the <hi>primum Mobile,</hi> or the firſt Cauſe of this cruel Perſe<g ref="char:EOLhyphen"/>cution, who ſtir up and whet on the Magiſtrate to accompliſh your intended purpoſes, and to fulfil your malicious wills, when we certainly and infallibly know they would not intermeddle in ſuch matters, moſt of them having no inclination thereunto, unleſs ſpurred on and ſtirred up by your ſelves, hear and give good heed unto this Parable: <hi>In a ſtrange Land there was a high way which led from a City, and in that way was ſeen two</hi> 
+               <note n="†" place="margin">The Prieſt and Magiſtrate.</note> 
+               <hi>men tra<g ref="char:EOLhyphen"/>velling, and after them followed great numbers of people of all ſorts; and in travelling on, theſe two Companions met a certain poor Travellor, who was journying towards that City, and one of them ſaid unto him, Whither art thou travelling? the poor man anſwered, Unto the City. Then he ſaid unto him, Thou muſt go back again with us. The poor man ſaid, I muſt go on my way unto the City, for there is my Habitation and my Reſt; and I have come very far, and have paſſed through very many Difficulties, Dangers, and Perils both of Waters and wilde Beaſts; and now being come within ſight of my City of Reſt, I never intend to go back again. Then ſaid he that ſpake unto him, If thou wilt not go back again with us in our way, thou muſt go no fur<g ref="char:EOLhyphen"/>ther on in thy way, but rather than go forward towards the City, thou ſhalt die: and then he ſpake to his Companion to ſlay the poor man, which at firſt he refuſed, and ſaid, I know no evil by him. But ſaid the other, If thou doſt not, I do; and I ſhould not have asked of thee to have done it, but I am a man devoted to holy Service, therefore I may not imbrew and ſtain my hands in blood, but I deſire thee to do it, and I will bear thee out in it: So with ſome intreaties, and many threat<g ref="char:EOLhyphen"/>nings he cauſed his Companion to ſlay the poor Travellor, and would not ſuffer him to go to his City of Reſt: and then he took his Body and hid it, leſt them that were tra<g ref="char:EOLhyphen"/>velling after ſhould ſee it, and ſo enquire the reaſon.</hi> Now he that can reade, let him reade: And know you this, O you Prieſts, you above all men upon the face of the Earth, have little cauſe to ſtir up Perſecution againſt us, knowing how and in what manner we formerly ſuffered, even in the day of your <hi>Proba<g ref="char:EOLhyphen"/>tion;</hi> and who were moſt faithful to their Principle then, let God, Angels and men judge; for we hold forth the ſame Truth now as then, and then as now: But hath it been ſo with you? let God's juſt Witneſs in you ſpeak and anſwer. And would you have us conform unto that as Truth, your ſelves durſt not publickly own in that day? And know you this, that ſince your Reſtoring amongſt the many thouſands who have been impriſoned in and about this City, did ever your Charity lead to our Priſons, to viſit or endeavour to convince us of that, behind our backs, you call Errour? What do you think, will not the Jeſuites and Fryars in Queen <hi>Mary</hi>'s dayes riſe up in Judgment againſt you, and condemn you? For, as it ſtands upon Record, they did often viſit them (they falſly called <hi>Hereticks</hi>) and uſed many endeavours to reclaim them, and to ſave their lives; though God's Truth were of more value unto them, than all their proffers of Life, Liberty, and Preferment; and choſe rather to ſeal their Teſtimonies with their Blood, than to deny the Truth of God, manifeſt<g ref="char:EOLhyphen"/>ed in their Hearts and Conſciences: but you, as the Generations of old, do beautifie their Tombs, and garniſh their Sepulchers, by your often repeating their Memorials, and cry out, <hi>Proteſtant Martyrs, Proteſtant Martyrs!</hi> We ſay, it's true, they were ſo, and we are the very Off-ſpring of that Seed: But what will it avail you, when by your practice you are found <hi>Proteſtant Perſecu<g ref="char:EOLhyphen"/>tors?</hi> and indeed let no man admire why no more Charity appears amongſt you, for this we have learned in God's Wiſdom, that the Hawk and Dove fly<g ref="char:EOLhyphen"/>eth not in company together; neither doth the Wolf and Sheep paſture toge<g ref="char:EOLhyphen"/>ther in one place.</p>
+            <p>And as for us the <hi>Innocent People of God,</hi> called <hi>Quakers,</hi> who deeply ſuffer for our Conſciences to God, and chiefly by your means, we ſay, <hi>The Will of God be done;</hi> and though we be encloſed within your Priſon walls, yet the Pre<g ref="char:EOLhyphen"/>ſence of our God is with us, and amongſt us, whereby our very Lives and Souls are refreſhed in him, and one in another; and in the true ſence of that, we have bowels of compaſſion for our Enemies, yea the very crueleſt of them; and for ſuch as are ignorant in what they do, our very ſouls mourn, pittie, and pray for them: and for thoſe who know what they do, and manifeſtly ſin againſt the Light of God in their Conſciences, as we believe even very many do in this thing, yet we have no evil towards them, neither in word, thought or action, but leave them to the Lord who judgeth righteouſly.</p>
+            <closer>
+               <dateline>Given forth by a Servant of the Lord, whoſe life is bound up amongst thoſe that bear a Teſtimony for God's Living Truth, by their Suffer<g ref="char:EOLhyphen"/>ings in the ſeveral Priſons and Goals in and about <hi>London.</hi>
+               </dateline>
+               <signed>R.C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
